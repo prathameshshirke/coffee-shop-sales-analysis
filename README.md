@@ -16,3 +16,6 @@ sales trends, top-selling products, and peak hours.
 
 ## 🎯 Business Value
 Helps improve inventory planning and sales strategy.
+
+## 📊 Dashboard Preview
+![Dashboard](screenshots/dashboard.png)
