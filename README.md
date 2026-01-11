@@ -18,4 +18,4 @@ sales trends, top-selling products, and peak hours.
 Helps improve inventory planning and sales strategy.
 
 ## 📊 Dashboard Preview
-![Dashboard](screenshots/dashboard.png)
+![screenshots](screenshots/dashboard.png)
